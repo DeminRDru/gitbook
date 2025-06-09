@@ -1,6 +1,6 @@
 # Добро пожаловать в мой уголок по ПК
 
-Всем привет я SiSpacer кто сюда зашел ко мне тут Я раскажу как настроить ПК и установить ПО.\
+сем привет я SiSpacer кто сюда зашел ко мне тут Я раскажу как настроить ПК и установить ПО.\
 \
 Gitbook: [https://sispacer.gitbook.io/computer-help](https://sispacer.gitbook.io/computer-help)
 
