@@ -54,7 +54,6 @@
 ## Приложение для ПК
 
 * [Категории Приложений](prilozhenie-dlya-pk/kategorii-prilozhenii/README.md)
-  * [Архиватор](prilozhenie-dlya-pk/kategorii-prilozhenii/arkhivator.md)
   * [Безопасность](prilozhenie-dlya-pk/kategorii-prilozhenii/bezopasnost/README.md)
     * [Антивирус](prilozhenie-dlya-pk/kategorii-prilozhenii/bezopasnost/antivirus.md)
     * [Менеджеры паролей](prilozhenie-dlya-pk/kategorii-prilozhenii/bezopasnost/menedzhery-parolei.md)
@@ -68,7 +67,6 @@
       * [P7-Офис](prilozhenie-dlya-pk/kategorii-prilozhenii/ofis/ofis-redaktor/p7-ofis.md)
       * [WPS office](prilozhenie-dlya-pk/kategorii-prilozhenii/ofis/ofis-redaktor/wps-office.md)
     * [Графика](prilozhenie-dlya-pk/kategorii-prilozhenii/ofis/grafika.md)
-  * [Бизнес](prilozhenie-dlya-pk/kategorii-prilozhenii/biznes.md)
   * [Мультимедия](prilozhenie-dlya-pk/kategorii-prilozhenii/multimediya/README.md)
     * [Аудио Плеер](prilozhenie-dlya-pk/kategorii-prilozhenii/multimediya/audio-pleer/README.md)
       * [Elisa (KDE Gear)](prilozhenie-dlya-pk/kategorii-prilozhenii/multimediya/audio-pleer/elisa-kde-gear.md)
@@ -88,33 +86,3 @@
       * [TeraBox](prilozhenie-dlya-pk/kategorii-prilozhenii/internet/obloko/terabox.md)
     * [Мессенджеры и соц. сети](prilozhenie-dlya-pk/kategorii-prilozhenii/internet/messendzhery-i-soc.-seti.md)
     * [Торрент](prilozhenie-dlya-pk/kategorii-prilozhenii/internet/torrent.md)
-  * [Файловые Менеджеры](prilozhenie-dlya-pk/kategorii-prilozhenii/failovye-menedzhery.md)
-  * [Утилиты](prilozhenie-dlya-pk/kategorii-prilozhenii/utility.md)
-  * [Виртуальная Машина](prilozhenie-dlya-pk/kategorii-prilozhenii/virtualnaya-mashina.md)
-  * [Разработка](prilozhenie-dlya-pk/kategorii-prilozhenii/razrabotka.md)
-
-## Игры
-
-* [Игровые клиенты](igry/igrovye-klienty/README.md)
-  * [Steam](igry/igrovye-klienty/steam.md)
-  * [EA](igry/igrovye-klienty/ea.md)
-  * [UPlay](igry/igrovye-klienty/uplay.md)
-  * [Riot Games](igry/igrovye-klienty/riot-games.md)
-  * [Battle.net](igry/igrovye-klienty/battle.net.md)
-
-***
-
-* [Игровые приложение и Настройки к ним](igrovye-prilozhenie-i-nastroiki-k-nim.md)
-* [Читы](chity.md)
-
-## Приложение Мобильное
-
-* [Офис](prilozhenie-mobilnoe/ofis.md)
-
-## Group 1
-
-* [о проекте](group-1/o-proekte.md)
-* [о Авторе](group-1/o-avtore.md)
-* [Помощь проекту](group-1/pomosh-proektu.md)
-* [Связь с Автором](group-1/svyaz-s-avtorom.md)
-* [Материал были взяты](group-1/material-byli-vzyaty.md)
