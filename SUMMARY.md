@@ -3,33 +3,6 @@
 * [Добро пожаловать в мой уголок по ПК](README.md)
 * [Условные Обозначение  1](uslovnye-oboznachenie-1.md)
 * [Добро пожаловать если вы выбрали Linux!](dobro-pozhalovat-esli-vy-vybrali-linux.md)
-* [Правила нашего проекта](pravila-nashego-proekta.md)
-
-## Windows
-
-* [Выбор Windows](windows/vybor-windows.md)
-* [Дистрибутивы Windows](windows/distributivy-windows/README.md)
-  * [Windows 7](windows/distributivy-windows/windows-7.md)
-  * [Windows 8](windows/distributivy-windows/windows-8.md)
-  * [Windows 10](windows/distributivy-windows/windows-10.md)
-  * [Windows 11](windows/distributivy-windows/windows-11.md)
-* [Настройка](windows/nastroika.md)
-* [Драйвера](windows/draivera.md)
-* [Обновление](windows/obnovlenie.md)
-* [Приложение](windows/prilozhenie.md)
-
-## Linux
-
-* [Выбор Linux](linux/vybor-linux/README.md)
-  * [Окружение](linux/vybor-linux/okruzhenie/README.md)
-    * [Графическое Окружение](linux/vybor-linux/okruzhenie/graficheskoe-okruzhenie.md)
-    * [Оконные Менеджеры](linux/vybor-linux/okruzhenie/okonnye-menedzhery.md)
-  * [Дистрибутивы](linux/vybor-linux/distributivy/README.md)
-    * [Linux](linux/vybor-linux/distributivy/linux.md)
-    * [Unix](linux/vybor-linux/distributivy/unix.md)
-
-***
-
 * [Настройка](nastroika.md)
 * [Обновление](obnovlenie.md)
 * [Приложение](prilozhenie.md)
